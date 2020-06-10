@@ -1,0 +1,25 @@
+
+/* Style */
+*{
+  font-family: helvetica !important;
+}
+body{
+  background-color: #d4e9fa !important;
+}
+nav{
+  font-size: 22px;
+}
+li a:hover {
+  background-color: #111;
+}
+.logInForm{
+  width: 500px;
+  margin: 0 auto;
+}
+.post{
+  border: 1px solid black;
+  width: 50%;
+  margin: 0 auto;
+  height: 20%;
+  padding: 4px;
+}
